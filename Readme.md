@@ -96,4 +96,5 @@ dl
 АКОС [Физтеховский курс](https://www.youtube.com/playlist?list=PL4_hYwCyhAva4dDOnyddyvkAs_jWVr624) крутой, чтоб понять, что такое ОС. Кстати, переходите на Linux - Ubuntu хорошая ос для юзеров.
 
 [Docker](https://www.youtube.com/watch?v=O8N1lvkIjig&t=95s) изучите еще [docker compose](https://roboticseabass.com/2021/04/21/docker-and-ros/)  по ссылке находится сборка для ros, но суть, в принципе, понятна.
- 
+
+Еще очень полезным бывает Pyenv, когда нужно сменить версию питона для какого-то проекта
