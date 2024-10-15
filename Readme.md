@@ -80,6 +80,8 @@ C++ пояса
 python 
 хирьянов
 
+робототехника: самая простая теория forvard and inverse kinematics. Может кватернионы какие-нибудь, но не факт
+
 control theory
 perception
 ros urdf и тд
