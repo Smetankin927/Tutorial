@@ -1,5 +1,5 @@
 # Как влиться в робототехнику
-спойлер -- не так сложно
+спойлер - не так сложно
 
 1. Железо
 2. Корпус
@@ -8,16 +8,17 @@
 ## Железо
 
 В эту рубрику входят две подрубрики:
-1. микроконтроллеры
-2. схемы (в которых я сам пока не очень хорош)
+1. ### микроконтроллеры
+2. ### схемы (в которых я сам пока не очень хорош)
 
+### микроконтроллеры:
 Что я посоветую самым новичкам? - Установите ArduinoIDE и прогайте stm32, esp, и все остальные популярные контроллеры там.
 Этот подход не так плох и его хватает, к тому же туториалов за глаза.
 Кс, знающие люди говорят, что прогать esp через их официальную среду программирования (аналог cubemx) это тот еще гемор.
 
 Если вы более серьезный человек, то читайте дальше:
 
-Какие слова гуглить\вбивать в ютуб: bare metal programming, stm32 from scratch ...
+Какие слова гуглить\вбивать в ютуб: _ _bare metal programming, stm32 from scratch_ _ ...
 
 Первое с чего я начинал -- это курс людей с РТ [link](https://youtube.com/playlist?list=PLhtMaaf_npBzsEQ94eGn5RnuE-VdGVObR&si=uz5jW3p8hJOfBUgp)
 У этого курса есть гитхаб со всеми необходимыми туториалами для начала. Но предупереждаю -- они не используют никакой CubeMx и тому подобные среды программирования.
@@ -40,11 +41,35 @@
 Тут по ощущениям нужно прочесть столько, сколько нужно для +- понимания устройства мк
 
 Теперь ссылки:
+1. [link](https://vk.com/away.php?to=https%3A%2F%2Fvivonomicon.com%2Fcategory%2Fstm32_baremetal_examples%2F&post=-188153424_218&cc_key=&track_code=) хороший сайт, стоит по нему полазить
+
+2. [youtube1](https://www.youtube.com/playlist?list=PLtVUYRe-Z-mfKO0lg_-MBvwWl6VjWT8Dt)
+3. [youtube2](https://www.youtube.com/playlist?list=PLmXXQ1iFwiyJFM2NJW1ybWX5Fu_9Oo7p1)
+4. [youtube3](https://www.youtube.com/playlist?list=PLtVUYRe-Z-mcjXXFBte61L8SjyI377VNq)
+5. [youtube4](https://www.youtube.com/watch?v=gdRmETe4QEo)
+6. [youtube5](https://www.youtube.com/playlist?list=PL4cGeWgaBTe155QQSQ72DksLIjBn5Jn2Z)
+7. [youtube6](https://www.youtube.com/playlist?list=PLmY3zqJJdVeNIZ8z_yw7Db9ej3FVG0iLy)
+8. [youtube7](https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ)
+9. [youtube8](https://www.youtube.com/@voidloopRobotechAutomation)
+10. [youtube9](https://www.youtube.com/@EnjoyMechatronics/videos)
+
+    Как говорится, на вкус и цвет. В общем, смотреть всё не обязателььно. Всё равно всё, что надо, науглите сами.
+
+    
+### схемы:
+
+Ну, говорить про закон Ома и базовый курс электричества и магнетизма физтеха я не буду. 
+Люди очень советуют трёхтомник Хоровиц и Хилл "Искусство схемотехники". Чего-то более я не нашел. Найдеде - пишите)
+
+По хорошему просто найдите какой-ниудь сайт по типу [радиокот](https://www.radiokot.ru/) и во вкладке "схемы" смотрите и разбирайте их по частям.
+
+Если хочется создавать микросхемы на платах, то установите **Altium Design** или **KiCAD**. Вообще это называется ***PCB design***, поэтому, что гуглить, думаю, вы понимаете.
 
 
 ## CAD
+Да простит меня ~~БОГ~~ Евгения Максимовна, но я считаю, что инструмент должен быть _ _удобным_ _. Поэтому я установил Onshape на свой планшет [app link](https://play.google.com/store/apps/details?id=com.onshape.app)  и радуюсь жизни. (Да, сейчас оно требует vpn, но тем не менее)
 
-На самом деле можно использовать любую программу, которую вы хотите: FreeCAD, Fusion360, Solidworks, Onshape, SiemensNx ...
+На самом деле можно использовать любую программу, которую вы хотите: _ _FreeCAD, Fusion360, Solidworks, Onshape, SiemensNx__ ...
 
 C++ пояса
 python 
