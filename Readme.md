@@ -76,14 +76,18 @@
 Первый мой тестовый проект был простым [гриппером](https://www.youtube.com/watch?v=Hlei0rlXW7o&list=PL92ZgDzlhlZaoRAn_zmuPWPW4MQhSS_je)
 
 ### Грядет
-C++ пояса
+C++ пояса яндекса
+
 python 
+
 хирьянов
 
 робототехника: самая простая теория forvard and inverse kinematics. Может кватернионы какие-нибудь, но не факт
 
-control theory
+control theory from scratch + тот курс + [control bootcamp от Стива](https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+
 perception
+
 ros urdf и тд
 
 
