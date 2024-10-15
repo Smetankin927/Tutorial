@@ -82,7 +82,7 @@ python
 
 control theory
 perception
-ros urd и тд
+ros urdf и тд
 
 
 ml
